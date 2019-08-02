@@ -1,0 +1,23 @@
+#myCarousel{
+	height: 20%;
+	margin-top: 5%;
+}
+
+.album{
+	margin-top: 170px;
+}
+
+.carousel-indicators{
+	bottom: -60%;
+}
+
+@media screen and (max-width:900px) {
+.lista {
+  display: none;
+}
+i .fas .fa-cart-plus{
+  width: 5px;
+  height: 5px;
+  margin-right: 10px;
+}
+}
